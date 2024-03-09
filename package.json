@@ -1,0 +1,11 @@
+{
+  "name": "webserver",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
